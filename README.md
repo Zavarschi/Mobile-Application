@@ -1,6 +1,7 @@
 #Mobile-Application
 
 Description:
+--------------
 This app will let you find nearest shop/restaurant/pub from city where you are now
 
 Requirements:
