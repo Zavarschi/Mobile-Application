@@ -13,4 +13,4 @@ Requirements:
 - offline support - persist data on the local storage : it will save user account details
 - online support - synchronize date to/from a remote location : to-do
 - intent - show map coordinates on google maps
-- animations - menu animations, screen animation, list apear animation
+- animations - menu animations, screen animation, list apear animations
