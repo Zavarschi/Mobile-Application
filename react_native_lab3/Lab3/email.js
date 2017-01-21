@@ -47,17 +47,17 @@ export default class EmailScreen extends Component {
             <View style={styles.container}>
 
                 <TextInput
-                    style={{color:'black', fontSize:50, width:200}}
+                    style={{color:'black', fontSize:20, width:200}}
                     onChangeText={(email) => this.setState({email})}
                     value={this.state.email}
                 />
                 <TextInput
-                    style={{color:'black', fontSize:50, width:200}}
+                    style={{color:'black', fontSize:20, width:200}}
                     onChangeText={(subject) => this.setState({subject})}
                     value={this.state.subject}
                 />
                 <TextInput
-                    style={{color:'black', fontSize:50, width:200}}
+                    style={{color:'black', fontSize:20, width:200, height:100}}
                     onChangeText={(body) => this.setState({body})}
                     value={this.state.body}
                 />

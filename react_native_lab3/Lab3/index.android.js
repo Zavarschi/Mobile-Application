@@ -46,6 +46,7 @@ var PageOne = React.createClass({
                 <View
                     style={{width: 140, height: 20,paddingVertical: 10, paddingHorizontal: 20, backgroundColor: 'white'}}>
                 </View>
+
                 <TouchableOpacity onPress={this.onEmailButtonPress}>
                     <View
                         style={{alignItems: 'center',width: 150, height: 50,paddingVertical: 10, paddingHorizontal: 20, backgroundColor: '#282828'}}>

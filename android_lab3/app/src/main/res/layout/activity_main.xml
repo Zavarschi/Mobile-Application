@@ -29,5 +29,10 @@
             android:layout_toEndOf="@+id/send_email_btn"
             android:text="List"
             android:textAllCaps="false" />
+        <Button
+            android:id="@+id/log_out"
+            android:text="Log Out"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
     </RelativeLayout>
 </RelativeLayout>

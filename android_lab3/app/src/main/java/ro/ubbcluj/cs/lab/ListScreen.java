@@ -19,6 +19,8 @@ import ro.ubbcluj.cs.lab.utils.Utils;
 
 public class ListScreen extends Activity {
 
+    
+
     ListView list;
     ArrayList<CharSequence> items;
     @Override
